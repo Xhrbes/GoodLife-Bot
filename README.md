@@ -1,5 +1,6 @@
 # GoodLife-Bot
 A GoodLife bot that automatically reserves workout sessions using requests.
+
 THIS IS AN OUTDATED VERSION OF THE BOT THAT USED TO WORK ON THE GOODLIFE SITE. THIS IS TO BE USED AS LEARNING MATERIAL AND TO POSSIBLY AID IN CREATING A USABLE BOT ON THE WEBSITE.
 
 The GoodLife reservation system works as follows (As of writing).
