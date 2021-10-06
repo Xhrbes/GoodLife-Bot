@@ -386,7 +386,7 @@ r.close()
 
 
 '''
-DIFFERENT RESPONSES THAT CAN BE USEFUL TO DETERMINE SUCCESS OR NOT
+RESPONSES THAT CAN BE USEFUL TO DETERMINE SUCCESS OR NOT
 {'map': {'response': {'result': 'BookedInWaitlist', 'waitListPosition': 9, 'resultReason': 'ClubFull', 'bookingId': 631317}, 'message': 'API Success Response', 'statusCode': 200}}
 API Success Response
 
